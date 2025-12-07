@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+#inicio{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(49, 160, 224, 0.2),rgba(0, 0, 0, 0.6)), url(../img/banner.png);
+    background-size: cover;
+    text-align: center;
+    margin: 0px;
+    height: 600px;
+    border: 1px solid #33a9db33;
+}
+
+p{
+    color: white;
+    padding: 20px;
+}
+
+#logo{
+   text-align: center;
+   padding: 50px;
+}
+
+h1, h2{
+    color: rgb(48, 133, 190);
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+#inicio > button{
+    background-color: transparent;
+    color: rgb(48, 133, 190);
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 20px;
+    border: 2px solid ;
+
+}
+
+#meio{
+    background-color: black;
+    height: 400px;
+    width: auto;
+    text-align: center ;
+    border: 1px solid #33a9db33;
+}
+
+#meio > button{
+    color: white;
+    background-color: grey;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    border: 1px solid #33a9db33;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+span{
+    color: #0f668b;
+    font-weight: 900;
+}
+#transforme{
+    border: 1px solid #33a9db33;
+    text-align: center;
+    width: auto;
+    height: 500px;
+    background-image: url(../img/woman-code.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#imgwoman {
+    margin: 32px 0;
+}
+#transforme > p{
+    text-align: left;
+    text-shadow: 1px 0.5px #33A8DB;
+}
+
+#fim{
+    text-align: center;
+    background-color: black;
+    border: 1px solid #33a9db33;
+    width: auto;
+    height: 700px;
+}
+
+#imgprofessional{
+    margin: 32px 0;
+}
+
+footer{
+    text-align: center;
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    border: 1px solid #33a9db33;
+    padding: 10px;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
