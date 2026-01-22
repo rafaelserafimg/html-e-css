@@ -1,2 +1,2 @@
 # html-e-css
-Projetos em HTML e CSS
+Repositório para projetos em Java Script, HTML e CSS.
