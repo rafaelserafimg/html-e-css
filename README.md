@@ -1,7 +1,7 @@
 # html-e-css
 Projetos em HTML e CSS
 
-Habilidades adiquiridas
+Habilidades adquiridas
 
 
 *Card-game*
