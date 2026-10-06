@@ -137,4 +137,4 @@ Habilidades adquiridas
 - Estruturação de projetos com múltiplas páginas
 - Boas práticas de organização de arquivos front-end
 - Desenvolvimento de interfaces ricas e interativas
-Repositório para projetos em Java Script, HTML e CSS.
+- Criação de interações sem uso de frameworks
